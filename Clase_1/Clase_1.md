@@ -11,7 +11,7 @@ output: html_document
 
 Una de las herramientas que usaremos a lo largo del curso es p5.js (https://p5js.org)
 
-Primero, Necesitarás descargar lo siguiente:
+Primero, necesitarás descargar lo siguiente:
 
 1. Editor desktop de *"p5.js"* (https://github.com/processing/p5.js-editor/releases/tag/v0.6.2)
 
@@ -35,7 +35,7 @@ Primero, Necesitarás descargar lo siguiente:
  *****************************************
  * VARIABLES
  *****************************************
- *************
+ *****************************************
  */
 
 ```
