@@ -16,3 +16,26 @@ Primero, Necesitarás descargar lo siguiente:
 1. Editor desktop de *"p5.js"* (https://github.com/processing/p5.js-editor/releases/tag/v0.6.2)
 
 
+## Header
+
+```
+/*
+ *
+ * HEADER
+ * TITULO (FECHA)
+ * NOMBRE
+ * 
+ *
+ * URL
+ */
+
+
+/*
+ *****************************************
+ *****************************************
+ * VARIABLES
+ *****************************************
+ *************
+ */
+
+```
